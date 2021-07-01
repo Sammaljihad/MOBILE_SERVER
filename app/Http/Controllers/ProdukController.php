@@ -59,7 +59,6 @@ class ProdukController extends Controller
         ]));
         return redirect('produk');
 
-
     }
 
     /**
